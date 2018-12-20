@@ -1,17 +1,41 @@
+body {
+    background-color: purple;
+}
+
 #blueCrystal {
     height: 200px;
+    float: right;
 }
 
 #redCrystal {
     height: 200px;
+    float: right;
 }
 
 #yellowCrystal {
     height: 200px;
+    float: right;
 }
 
 
 #greenCrystal {
 height: 200px;
+float: right;
+background-color: white;
 }
 
+#wins {
+line-height: 100px;
+}
+
+#losses {
+line-height: 100px;
+}
+
+#targetScore {
+line-height: 100px;
+}
+
+#userScore {
+line-height: 100px;
+}
