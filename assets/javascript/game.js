@@ -29,7 +29,7 @@ var crystals = {
 
 // scores (user and target)
 var userScore = 0;
-var targetScore = 0;
+var targetScore = Math.floor(Math.random() * 120) + 19;
 
 //wins and losses
 var wins = 0;
